@@ -1,5 +1,6 @@
-## Hi there 👋
+## Olá! 👋
 
+Meu nome é Renan, tenho graduação em design e estou começando a aprender código e programação aos poucos.
 <!--
 **Renaeafins/Renaeafins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
