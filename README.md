@@ -2,11 +2,10 @@
 
 - Nome: Renan
 - Idade: 22 anos
+- Ocupação: estudante
+- Áreas de estudo: design (gráfico, de games, UX/UI).
 
-Ocupação: estudante
-
-Áreas de estudo: design (gráfico, de games, UX/UI).
-
+Descrição:
 Meu nome é Renan, tenho graduação em design e estou começando a aprender código e programação aos poucos. Meus estudos atuais focam em UX/UI Design e Game Design, mas sempre que houver algo novo de código e/ou programção, adiciono aqui :)
 <!--
 **Renaeafins/Renaeafins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
