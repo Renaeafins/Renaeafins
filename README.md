@@ -1,7 +1,6 @@
 ## Olá! 👋
 
 Nome: Renan
-
 Idade: 22 anos
 
 Ocupação: estudante
